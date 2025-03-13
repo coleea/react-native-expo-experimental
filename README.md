@@ -2,7 +2,6 @@
 
 ```bash
 emulator -avd Medium_Phone_API_35
-
 npx expo start
 ```
 
@@ -10,7 +9,10 @@ npx expo start
 
 TODO
 
-
+```bash
+open -a simulator # 가장 마지막에 실행된 디바이스가 인자로 자동 삽입됨
+npx expo start
+```
 
 ## etc
 
